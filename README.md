@@ -2,4 +2,4 @@
 
 <n2>Criado por Jeferson Ayres Araujo</n2>
 
-Este é um app desenvolvido por mim e proposto pela professora Aline da Escola Etec Basilides de Godoy para um requirimento de nota, através deste APP.
+Este é um app desenvolvido para a comemoração dos 400 anos de São Paulo. Ele propõe mostrar  os eventos que ocorrem em São Paulo para aqueles que estão aqui só de passagem e querer explorar essa grande cidade mais a fundo.
