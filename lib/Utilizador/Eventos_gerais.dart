@@ -9,7 +9,7 @@ class EventoSociais extends StatelessWidget {
   final List<EventoSocial> detalhesEvento = [
     //BGS (BrasilGameShow)
     EventoSocial(
-        'image/BGS.jpg',
+        'img/BGS.jpg',
         'BrasilGameShow',
         '10/06/2024 a 14/06/2024',
         'A variar',
@@ -17,7 +17,7 @@ class EventoSociais extends StatelessWidget {
         'OBS: As data podem estar alteradas, confira no site oficial as datas e locais disponiveis '),
     //Comic Con Experience
     EventoSocial(
-        'imagens/Comic.jpg',
+        'img/Comic.jpg',
         'Comic Con Experience',
         '05/12/2024 a 08/12/2024',
         'em Dezembro',
@@ -35,7 +35,7 @@ class EventoSociais extends StatelessWidget {
 
     //Masp Museu das Artes
     EventoSocial(
-        'imagens/Masp.jpeg',
+        'img/Masp.jpeg',
         'Museu da Arte de São Paulo Assis Chateubriand',
         'Terça a Sábado',
         'Sempre disponível nos dias listados',
@@ -43,7 +43,7 @@ class EventoSociais extends StatelessWidget {
         'OBS: As data podem estar alteradas, confira no site oficial as datas e locais disponiveis '),
     //lollapaluza 2025
     EventoSocial(
-        'imagens/lola.jpg',
+        'img/lola.jpg',
         'Lollapalooza 2025',
         '28/03/2025 a 30/03/2025',
         'em Março',
@@ -61,7 +61,7 @@ class EventoSociais extends StatelessWidget {
 
     //Fórmula E
     EventoSocial(
-        'imagens/formula E.jpg',
+        'img/formula E.jpg',
         'Fórmula E Uma Nova Temporada',
         '04/12/2024',
         'A variar',
@@ -70,7 +70,7 @@ class EventoSociais extends StatelessWidget {
 
     //Maratona Internacional de São Paulo 2025
     EventoSocial(
-        'imagens/maratona Intl.jpg',
+        'img/maratona Intl.jpg',
         'Maratona Internacional de São Paulo (29°Edição)',
         '25/01/2025',
         'A variar',

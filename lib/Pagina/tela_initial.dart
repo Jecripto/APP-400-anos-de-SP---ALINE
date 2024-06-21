@@ -1,7 +1,7 @@
 // ignore_for_file: file_names
 
 import 'package:flutter/material.dart';
-import 'package:flutter_app_imagine/Utilizador/Eventos_gerais.dart';
+import 'package:flutter_app_imagine/Utilizador/eventos_gerais.dart';
 import 'package:flutter_app_imagine/Utilizador/Eventos_presentes.dart';
 import 'package:flutter_app_imagine/Pagina/sobre_dart.dart';
 import 'package:flutter_app_imagine/Pagina/favorito_dart.dart';
