@@ -6,3 +6,7 @@
 uma cidade linda e com várias culturas em sua população, vários locais e eventos para conhecer.
 esse app tem como objetivo apenas mostrar os eventos, mostrando local, data, e avaliações.
 </div>
+
+
+<br>
+-- Criado por Jeferson Ayres Araujo
